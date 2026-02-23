@@ -12,7 +12,7 @@ local image_0 = {
 
 --image_1 is used as the icon
 local image_1 = {
-    ['src'] = '',
+    ['src'] = 'https://raw.githubusercontent.com/Flammia/a7/refs/heads/main/albixon_logo.png',
     ['sizeX'] = 130,
     ['sizeY'] = 130,
     ['paddingX'] = 15, --use this to align it, currently 50 pixels from top right
